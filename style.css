@@ -1,0 +1,14 @@
+#yellow{
+    background-color: yellow;
+}
+#red{
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+}
+button{
+    padding: 9px;
+    border-radius: 9px;
+    margin: 6px;
+}
